@@ -100,4 +100,4 @@ systemctl stop firewalld.service (To stop firewalld service)
 
 ## Authors
 
-- [@priyannka-santoki](https://www.github.com/priyannkasantoki1)
+- [@Priyannka-Santoki](https://www.github.com/priyannkasantoki1)
